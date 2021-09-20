@@ -1,0 +1,51 @@
+.main{
+  margin-top:150px;
+}
+
+.link
+{
+    color: white;
+}
+
+.back
+{
+    background-color: rgb(70, 64, 64);
+}
+
+.images{
+  padding-top: 100px;
+}
+
+.main-image
+{
+  height:150px;
+  width:200px;
+  margin-left: 5%;
+}
+
+.quote-image1
+{
+  height:350px;
+  width:250px;
+  margin-left: 5%;
+  /* display: inline-block; */
+}
+.quote-image2
+{
+  height:350px;
+  width:250px;
+  margin-left: 5%;
+
+}
+.quote-image3
+{
+  height:500px;
+  width:250px;
+  margin-left: 5%;
+
+}
+
+.inline
+{
+  display: block;
+}
